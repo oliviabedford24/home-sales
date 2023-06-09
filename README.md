@@ -6,8 +6,4 @@ In this challenge, we used your knowledge of SparkSQL to determine key metrics a
 
 The code for this challenge is contained in the "Home_Sales_colab" file on the main branch. It was written and run in Google Colab, so for best results please run the code in Colab as well.
 
-Over and out!
-
--Olivia
-
-xoxo
+Thank you!
